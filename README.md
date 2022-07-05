@@ -4,7 +4,7 @@ A web scraper written in Python that scrapes Hacker News and generates a list of
 
 ```
 python scraper.py
-Example: How many Hackernews pages would you like to scrape? "4"
+Example: "How many Hackernews pages would you like to scrape?" 4
 ```
 ## Included Files
 
